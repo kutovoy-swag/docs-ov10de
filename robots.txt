@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-a90gnk.hsteamid.com/sitemap.xml
